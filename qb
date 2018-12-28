@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DANSER.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BB9668C591B6CEB81E264A8899A328853807042A</string>
+				<key>dateExpires</key>
+				<string>2019/11/1</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>BB9668C591B6CEB81E264A8899A328853807042A</string>
+						<key>dateExpires</key>
+						<string>2019/11/1</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SnapKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>8K7S9CC5MH</string>
+						<key>name</key>
+						<string>Lin Zheng</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8K7S9CC5MH.com.tg.quboLive</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8K7S9CC5MH</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>DANSER.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>1a22f870-29e6-4e49-8963-9d63c81e31c3</string>
+				<key>name</key>
+				<string>qb_iOS_Distrbution</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8K7S9CC5MH</string>
+				<key>name</key>
+				<string>Lin Zheng</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
